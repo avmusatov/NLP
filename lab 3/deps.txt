@@ -1,0 +1,11 @@
+ipywidgets
+IPython
+gensim
+pyLDAvis
+sklearn
+pandas
+numpy
+matplotlib
+pymorphy2
+stop_words
+nltk
